@@ -1,8 +1,8 @@
-api_id = 17193413
+api_id = 7931165
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "5a2e46d1e6deb1456c75aa743bc8e0e6"
 
-bot_token = "5870411028:AAHouRXS06_IUeMZWqLAGDkLjIHaLbXSXyw"
+bot_token = "5996076076:AAHeU7ZGbAKApZgVkCab8BujzR46klW6_Fw"
 
 GROUP_TAG = "mx"
 
